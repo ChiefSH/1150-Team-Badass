@@ -1,0 +1,7 @@
+c:\users\fred miles\documents\visual studio 2015\Projects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.dll
+c:\users\fred miles\documents\visual studio 2015\Projects\ElevenNote\ElevenNote.Models\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Models.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
