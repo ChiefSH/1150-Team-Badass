@@ -5,3 +5,8 @@ C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\E
 C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
 C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Models.pdb
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
+C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
