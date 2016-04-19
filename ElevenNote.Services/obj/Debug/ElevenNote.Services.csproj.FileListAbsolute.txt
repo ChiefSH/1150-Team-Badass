@@ -6,3 +6,9 @@ C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\bin\Debug\E
 C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
 C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\Fred Miles\Documents\Visual Studio 2015\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Geoff\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Geoff\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll
+C:\Users\Geoff\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Geoff\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Geoff\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Geoff\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

@@ -2,30 +2,109 @@
     ViewBag.Title = "Home Page";
 }
 
-<div class="jumbotron">
-    <h1>ASP.NET</h1>
-    <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
-    <p><a href="http://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-</div>
+<body id="top-page" class="index">
+    <!--Navbar stuff-->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#nj-navbar-collapse-first">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#top-page"><img src="/1150-Team-Badass/img/nJ.png" /></a>
+            </div>
+            <div class="collapse navbar-collapse" id="nj-navbar-collapse-first">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#top-page"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Services</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="~/Views/Notes/Index.cshtml">Notes</a>
+                    </li>
+                    <li>
+                        <a href="~/Views/Manage/Index.cshtml">Login</a>
+                    </li>
+                    <li>
+                        <a href="#logoff">Logoff</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
 
-<div class="row">
-    <div class="col-md-4">
-        <h2>Getting started</h2>
-        <p>
-            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
-            enables a clean separation of concerns and gives you full control over markup
-            for enjoyable, agile development.
-        </p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>
+    <!--Header stuff-->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">noteJar</div>
+                <div class="intro-heading">Notetaking for those who think outside-the-jar!</div>
+            </div>
+        </div>
+    </header>
+    
+    <!--Services-->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">Save all your notes here in the Jar!</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa glyphicon-envelope fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="services-heading">One click</h4>
+                    <p class="text-muted">With a simple click you can create as many notes as your heart desires.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa glyphicon-fire fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="services-heading">It's So Hot Right Now</h4>
+                    <p class="text-muted">noteJar is the hottest website on the market. Sizzle it up!</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Contact-->
+    <div class="container">
+        <form id="contact" action="" method="post">
+            <h3>Contact</h3>
+            <h4>Contact us today, and get a reply ASAP!</h4>
+            <fieldset>
+                <input placeholder="Your name" type="text" tabindex="1" required autofocus />
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Email Address" tpye="email" tabindex="2" required />
+            </fieldset>
+            <fieldset>
+                <input placeholder="Your Phone Number" type="tel" tabindex="3" required />
+            </fieldset>
+            <fieldset>
+                <textarea placeholder="Type your Message Here...." tabindex="5" required></textarea>
+            </fieldset>
+            <fieldset>
+                <button name="submit" type="submit" id="contact-submite" data-submit="...Sending">Submit</button>
+            </fieldset>
+        </form>
     </div>
-    <div class="col-md-4">
-        <h2>Get more libraries</h2>
-        <p>NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>
-    </div>
-    <div class="col-md-4">
-        <h2>Web Hosting</h2>
-        <p>You can easily find a web hosting company that offers the right mix of features and price for your applications.</p>
-        <p><a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>
-    </div>
-</div>
+
+
+
+
+
+
+</body>
