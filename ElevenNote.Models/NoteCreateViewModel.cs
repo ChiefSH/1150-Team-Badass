@@ -17,7 +17,7 @@ namespace ElevenNote.Models
 
         [Required]
         [MaxLength(128)]
-
+        
         public string Importance { get; set; }
 
         [Required]

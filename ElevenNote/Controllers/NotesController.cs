@@ -36,13 +36,13 @@ namespace ElevenNote.Controllers
             return View(notes);
         }
 
-
         public ActionResult Create()
         {
             var vm = new NoteCreateViewModel();
 
             return View(vm);
         }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(NoteCreateViewModel vm)
@@ -87,6 +87,7 @@ namespace ElevenNote.Controllers
 
             return RedirectToAction("Index");
         }
+
         [HttpGet]
         [ActionName("Delete")]
         public ActionResult DeleteGet(int id)

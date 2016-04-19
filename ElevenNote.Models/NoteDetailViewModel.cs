@@ -15,5 +15,6 @@ namespace ElevenNote.Models
         public DateTimeOffset CreatedUtc { get; set; }
         public DateTimeOffset? ModifiedUtc { get; set; }
         public int NoteId { get; set; }
+
     }
 }
