@@ -26,5 +26,12 @@ namespace ElevenNote.Controllers
 
             return View();
         }
+
+        public ActionResult Calendar()
+        {
+            ViewBag.Message = "Your calendar page.";
+
+            return View();
+        }
     }
 }

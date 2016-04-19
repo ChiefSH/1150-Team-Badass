@@ -31,6 +31,7 @@ namespace ElevenNote.Services
                                     {
                                         NoteId = e.NoteId,
                                         Title = e.Title,
+                                        Importance = e.Importance,
                                         IsStarred = e.IsStarred,
                                         CreatedUtc = e.CreatedUtc
                                     })
@@ -47,6 +48,7 @@ namespace ElevenNote.Services
                     {
                         OwnerId = _userId,
                         Title = vm.Title,
+                        Importance = vm.Importance,
                         Content = vm.Content,
                         CreatedUtc = DateTimeOffset.UtcNow
                     };
@@ -76,6 +78,7 @@ namespace ElevenNote.Services
                 {
                     NoteId = entity.NoteId,
                     Title = entity.Title,
+                    Importance = entity.Importance,
                     Content = entity.Content,
                     IsStarred = entity.IsStarred,
                     CreatedUtc = entity.CreatedUtc,
@@ -93,6 +96,7 @@ namespace ElevenNote.Services
                         .Single(e => e.OwnerId == _userId && e.NoteId == vm.NoteId);
 
                 entity.Title = vm.Title;
+                entity.Importance = vm.Importance;
                 entity.Content = vm.Content;
                 entity.IsStarred = vm.IsStarred;
                 entity.ModifiedUtc = DateTimeOffset.UtcNow;

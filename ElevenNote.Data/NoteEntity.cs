@@ -26,6 +26,9 @@ namespace ElevenNote.Data
         public string Title { get; set; }
 
         [Required]
+        public string Importance { get; set; }
+
+        [Required]
 
         public string Content { get; set; } 
         [Required]

@@ -27,3 +27,11 @@ C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNo
 C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache
 C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Data.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Data.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.importance.resources
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.Cache

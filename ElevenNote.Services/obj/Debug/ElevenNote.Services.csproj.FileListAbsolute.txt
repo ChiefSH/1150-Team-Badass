@@ -12,3 +12,9 @@ C:\Users\Bobbie\Source\Repos\1150-Team-Badass\bin\Debug\ElevenNote.Services.pdb
 C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
 C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\Users\Bobbie\Source\Repos\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll.config
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\bin\Debug\ElevenNote.Services.pdb
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojResolveAssemblyReference.cache
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
+C:\Users\Bobbie\Documents\GitHub\1150-Team-Badass\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

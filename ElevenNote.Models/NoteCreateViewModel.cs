@@ -10,10 +10,15 @@ namespace ElevenNote.Models
     public class NoteCreateViewModel
     {
         [Required]
-        [MinLength(2, ErrorMessage ="PLease enter at least two characters")]
+        [MinLength(2, ErrorMessage ="Please enter at least two characters")]
         [MaxLength(128)]
 
         public string Title { get; set; }
+
+        [Required]
+        [MaxLength(128)]
+
+        public string Importance { get; set; }
 
         [Required]
         [MaxLength(8000)]

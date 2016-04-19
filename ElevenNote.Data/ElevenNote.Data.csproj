@@ -58,13 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IdentityModels.cs" />
-    <Compile Include="Migrations\201604141421061_InitialCreate.cs" />
-    <Compile Include="Migrations\201604141421061_InitialCreate.Designer.cs">
-      <DependentUpon>201604141421061_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201604141500048_AddIsStarred.cs" />
-    <Compile Include="Migrations\201604141500048_AddIsStarred.Designer.cs">
-      <DependentUpon>201604141500048_AddIsStarred.cs</DependentUpon>
+    <Compile Include="Migrations\201604182101342_importance.cs" />
+    <Compile Include="Migrations\201604182101342_importance.Designer.cs">
+      <DependentUpon>201604182101342_importance.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="NoteEntity.cs" />
@@ -75,11 +71,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201604141421061_InitialCreate.resx">
-      <DependentUpon>201604141421061_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201604141500048_AddIsStarred.resx">
-      <DependentUpon>201604141500048_AddIsStarred.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201604182101342_importance.resx">
+      <DependentUpon>201604182101342_importance.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
